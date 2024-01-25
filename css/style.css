@@ -1,0 +1,13 @@
+/* Mobile first ( <768px ) */
+
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    /* Centrera, täck hela, ingen upprepning */
+    background: url('../img/mobile-bg.png') center/cover no-repeat; 
+    background-size: 100%; 
+}
+
+
+  
